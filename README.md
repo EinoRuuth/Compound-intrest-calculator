@@ -9,7 +9,10 @@ Releases has a .exe file but antivirus will flag it as a threat so i suggest usi
 ## Math stuff
 
 Here is the calculation i used
+
 ![image](https://github.com/user-attachments/assets/62bef745-bb89-4c3f-951c-f57655a41fe8)
+
+
 This represents the formula in mathematical notation where:
 
 - 𝑃 is the principal amount.
